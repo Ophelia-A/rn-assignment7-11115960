@@ -272,7 +272,7 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   redLine: {
-    width: "40%",
+    width: "60%",
     height: 2,
     backgroundColor: "red",
     marginBottom: 16,
